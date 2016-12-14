@@ -1,0 +1,122 @@
+# Blender MTL File: 'succ.blend'
+# Material Count: 10
+
+newmtl m_jack_crystal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_sides_d.png
+map_Disp t_jack_sides_n.png
+map_Ka t_jack_sides_m.png
+
+newmtl mi_jack_armsBig
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_armsTail_dm.png
+map_Disp t_jack_armsTail_n.png
+map_Ka t_jack_armsTail_m.png
+
+newmtl mi_jack_armsSmall
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_smallArms_dm.png
+map_Disp t_jack_smallArms_n.png
+map_Ka t_jack_smallArms_m.png
+
+newmtl mi_jack_back
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_back_d.png
+map_Disp t_jack_back_n.png
+map_Ka t_jack_back_m.png
+
+newmtl mi_jack_belly
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_belly_d.png
+map_Disp t_jack_belly_n.png
+map_Ka t_jack_belly_m.png
+
+newmtl mi_jack_eyes
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_eyes_d.png
+map_Disp t_eye_n.png
+map_Ka t_jack_eyes_m.png
+
+newmtl mi_jack_eyes_misty
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_eyes_d.png
+map_Disp t_eye_n.png
+map_Ka t_jack_eyes_m.png
+
+newmtl mi_jack_head
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_head_d.png
+map_Disp t_jack_head_n.png
+map_Ka t_jack_head_m.png
+
+newmtl mi_jack_sides
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_sides_d.png
+map_Disp t_jack_sides_n.png
+map_Ka t_jack_sides_m.png
+
+newmtl mi_jack_tail
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_jack_armsTail_dm.png
+map_Disp t_jack_armsTail_n.png
+map_Ka t_jack_armsTail_m.png
